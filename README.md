@@ -8,7 +8,7 @@ Voici l'algorithme suivant :
            candies ← candies + 1
            money ← money - price
        Fin Tant que
-   Fin Si
+   Fin Si 
    afficher candies
 
 1-Crée un nouveau dossier dans JavaProjects, que tu nommeras Candies.
